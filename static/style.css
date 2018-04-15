@@ -554,3 +554,22 @@ a:hover {
 	padding: 1em 2em;
 	color: #FFFFFF;
 }
+
+.container h2{
+	text-align: center;
+}
+.image-container{
+	width: 80%;
+	height: 600px;
+	margin: 0 auto;
+}
+.your-name{
+	color: rgba(230,40,40,1);
+}
+
+.status{
+	width: 100%;
+	text-align: center;
+	height: 60px;
+
+}
